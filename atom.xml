@@ -3,11 +3,11 @@
   <title>HPLQAQ的日志</title>
   
   
-  <link href="https://www.hplqaq.tech/atom.xml" rel="self"/>
+  <link href="https://blog.siweili.tech/atom.xml" rel="self"/>
   
-  <link href="https://www.hplqaq.tech/"/>
+  <link href="https://blog.siweili.tech/"/>
   <updated>2024-04-04T18:27:42.092Z</updated>
-  <id>https://www.hplqaq.tech/</id>
+  <id>https://blog.siweili.tech/</id>
   
   <author>
     <name>HPLQAQ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>你好，世界</title>
-    <link href="https://www.hplqaq.tech/2024/04/04/hello-world/"/>
-    <id>https://www.hplqaq.tech/2024/04/04/hello-world/</id>
+    <link href="https://blog.siweili.tech/2024/04/04/hello-world/"/>
+    <id>https://blog.siweili.tech/2024/04/04/hello-world/</id>
     <published>2024-04-04T01:18:00.000Z</published>
     <updated>2024-04-04T18:27:42.092Z</updated>
     
