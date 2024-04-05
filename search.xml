@@ -3,7 +3,7 @@
   <entry>
     <title>你好，世界</title>
     <url>/2024/04/04/hello-world/</url>
-    <content><![CDATA[<p>该网站使用<a href="https://hexo.io/">Hexo</a>搭建! 文档参考<a href="https://hexo.io/docs/">documentation</a>。 使用问题参考<a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>，Hexo的项目原始链接在<a href="https://github.com/hexojs/hexo/issues">Repository</a>。网站主题使用<a href="https://github.com/next-theme/hexo-theme-next">Next</a>。服务器部署在Github Pages<a href="https://github.com/">github</a>。</p>
+    <content><![CDATA[<p>该网站使用<a href="https://hexo.io/">Hexo</a>搭建! 文档参考<a href="https://hexo.io/docs/">documentation</a>。 使用问题参考<a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>，Hexo的项目原始链接在<a href="https://github.com/hexojs/hexo/issues">Repository</a>。网站主题使用<a href="https://github.com/next-theme/hexo-theme-next">Next</a>。服务器部署在<a href="https://github.com/">Github Pages</a>。</p>
 <h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇博客"><a href="#创建一篇博客" class="headerlink" title="创建一篇博客"></a>创建一篇博客</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"我的博客"</span></span><br></pre></td></tr></tbody></table></figure>
 
 <p>更多信息参考: <a href="https://hexo.io/docs/writing.html">写作</a></p>
